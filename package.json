@@ -1,0 +1,17 @@
+{
+  "name": "agile-enforcement-proxy",
+  "version": "1.0.0",
+  "description": "Agile proxy for enforcement (experimental)",
+  "main": "app.js",
+  "dependencies": {
+    "agile-idm-client": "git+https://github.com/Agile-IoT/agile-idm-client",
+    "http": "0.0.0",
+    "http-proxy": "^1.15.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
