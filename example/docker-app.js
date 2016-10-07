@@ -1,6 +1,6 @@
 
 var conf = {};
-var conf = require('./conf/agile-enforcement-proxy-conf');
+var conf = require('/etc/enforcement-proxy/agile-enforcement-proxy-conf');
 var server = require('../index')(conf);
 
 
